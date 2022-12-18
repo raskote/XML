@@ -1,1 +1,11 @@
-
+<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+<Table>
+  <Title>Example</Title>>
+  <Description>Example</Description>
+  <Preposition>Example</Preposition>
+  <Steps_to_reproduce>Example</Steps_to_reproduce>
+  <Expected_result>Example</Expected_result>
+  <Actual_result>Example</Actual_result>
+  <Attachments>Example</Attachments>
+</Table>
